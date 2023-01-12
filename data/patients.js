@@ -2,4 +2,4 @@
 const patients = ["Siti Nur Kaffah ", "Ahmad Reza", "Hannah Yasmin"];
 
 // TODO 2: export data Patients
-module.exports = patients;
+module.exports = Patients;
